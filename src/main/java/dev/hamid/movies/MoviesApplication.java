@@ -13,6 +13,6 @@ public class MoviesApplication {
 	@GetMapping("/root")
 	public String apiRoot()
 	{
-		return "hello world 2";
+		return "hello worl 2";
 	}
 }
